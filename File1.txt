@@ -7,3 +7,4 @@ Just Test Commit#2
 I love QA
 I love QA and Python.
 It's Autumn now
+new branch line
